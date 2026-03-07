@@ -23,7 +23,7 @@ Print Prices
 - Photo Paper      PHP 20.00/page
 
 4. User Primary users of the system.
-- Cashier - The one who will handle customer or printing process.
+- Cashier - The one who will handle client or printing process.
 - Client/Student - The one who will order printed papers.
 
 5. Functional Requirements list system features/ end points.
