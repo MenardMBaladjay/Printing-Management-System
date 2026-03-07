@@ -24,7 +24,7 @@ Print Prices
 
 4. User Primary users of the system.
 - Cashier - The one who will handle customer or printing process.
-- Client - The one who will order or print papers.
+- Client/Student - The one who will order or print papers.
 
 5. Functional Requirements list system features/ end points.
 - 
