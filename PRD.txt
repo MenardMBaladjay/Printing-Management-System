@@ -4,7 +4,7 @@
 
 
 1. PROJECT OVERVIEW DESCRIBE THE APPLICATION
-- This system is an managing system where it can compute value of total cost, view number of pages printed. 
+- This system is an managing system where it can compute total of printing cost, view number of pages printed. 
   The cashier can also update and cancel orders to avoid duplicate of printed papers and makes the process of printing faster and organized.
 
 2. Problem Statement what problem does the client face?
