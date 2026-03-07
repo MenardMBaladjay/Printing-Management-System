@@ -1,0 +1,44 @@
+ Printing Management System
+
+ https://github.com/MenardMBaladjay/Printing-Management-System
+
+
+1. PROJECT OVERVIEW DESCRIBE THE APPLICATION
+- This system is an managing system where it can compute value of total cost, number of pages printed. 
+  The cashier can also cancel orders to avoid duplicate of printed papers and makes the process of printing faster and organized.
+
+2. Problem Statement what problem does the client face?
+- Client is facing problems if there are a lot of customers 
+  who wants to print or xerox papers which cause computation errors,
+  orders may lost or duplicated which can cause hassle for client 
+  so client wants to avoid those problems.
+
+3. Objectives List System Goals
+- To accept printing orders and can compute total cost automatically, 
+  allows viewing of orders, and receive orders information.
+  
+Print Prices
+-Black and White   PHP 2.00/page
+- Colored          PHP 5.00/page
+- Photo Paper      PHP 20.00/page
+
+4. User Primary users of the system.
+- Cashier - The one who will handle customer or printing process.
+- Client - The one who will order or print papers.
+
+5. Functional Requirements list system features/ end points.
+- 
+
+6. Non- Functional Requirements Performance, usability, constraints
+- 
+7. Data Model Order fields:
+  
+- order_id         
+-student_name     
+-document_name    
+-pages             
+-print_type        
+-total_cost     
+
+8. Proposed API Endpoints example: POST/ orders GET/ orders GET/ orders/ {id}
+
