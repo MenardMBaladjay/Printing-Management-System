@@ -4,12 +4,12 @@
 
 
 1. PROJECT OVERVIEW DESCRIBE THE APPLICATION
-- This system is an managing system where it can compute total of printing cost, view number of pages printed. 
+- The Printing Management System is an Automate system where it can compute total of printing cost, view number of pages printed. 
   The cashier can also update and cancel orders to avoid duplicate of printed papers and makes the process of printing faster and organized.
 
 2. Problem Statement what problem does the client face?
 - Client is facing problems if there are a lot of customers 
-  who wants to print or xerox papers which cause computation errors,
+  who wants to print papers which cause computation errors,
   orders may lost or duplicated which can cause hassle for client 
   so client wants to avoid those problems.
 
