@@ -48,7 +48,6 @@ def update_order(db: Session, order_id: int, order: schemas.OrderUpdate):
         db_order.pages = order.pages
     if order.print_type is not None:
         db_order.print_type = order.print_type
-    # recalc cost if pages or print_type changed
     db_order.total_cost = calculate_cost(db_order.pages, db_order.print_type)
     db.commit()
     db.refresh(db_order)

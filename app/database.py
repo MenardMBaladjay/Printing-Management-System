@@ -4,7 +4,6 @@ from sqlalchemy.orm import sessionmaker
 
 SQLALCHEMY_DATABASE_URL = "sqlite:///./orders.db"
 
-# SQLite "check_same_thread" is required for SQLite when using threads
 engine = create_engine(
     SQLALCHEMY_DATABASE_URL, connect_args={"check_same_thread": False}
 )
